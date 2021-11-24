@@ -7,5 +7,5 @@ Para rodar os códigos abra um CMD no diretório dos arquivos e utilize:
 
 Para rodar diferentes testes basta editar o tm.txt
 
-O programa retorna:
+O programa retorna:<br />
 ![alt text](https://cdn.discordapp.com/attachments/771470980324524043/913072516048756766/unknown.png)
